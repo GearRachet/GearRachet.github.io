@@ -1,23 +1,26 @@
 p {
-	color : red
+	color : red;
 }
 
 h1 {
-	font-family: "times new roman"
-	color : cyan
+	font-family: "times new roman";
+	color : cyan;
 }
 
 h2 {
-	font-family: "times new roman"
-	color : rgb(139,69,19)
+	font-family: "times new roman";
+	color : rgb(139,69,19);
 }
 
 h3 {
-	font-family: "times new roman"
-	color : green
+	font-family: "times new roman";
+	color : green;
 }
 
 body {
-	background-color: grey
+	background-color: grey;
 }
 
+h4 {
+	font-size: 50px;
+}
