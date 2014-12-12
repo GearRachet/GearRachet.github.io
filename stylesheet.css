@@ -4,14 +4,17 @@ p {
 
 h1 {
 	color : cyan
+	font-family: "times new roman"
 }
 
 h2 {
 	color : rgb(139,69,19)
+	font-family: "times new roman"
 }
 
 h3 {
 	color : green
+	font-family: "times new roman"
 }
 
 body {
