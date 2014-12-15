@@ -43,4 +43,5 @@ nav li {
 	display: inline;
 	background-color: red;
 	font-size: 30px;
+	float: left;
 }
