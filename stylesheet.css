@@ -35,12 +35,12 @@ h4 {
 
 nav ul {
 	list-style-type: none;
-	padding:50px;
-	margin: 50px;
+	padding:0;
+	margin: 0;
 }
 
 nav li {
 	display: inline;
 	background-color: red;
-	font-size: 15px;
+	font-size: 30px;
 }
