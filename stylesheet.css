@@ -57,4 +57,9 @@ nav a:hover, nav a:active {
 
 nav a:hover, nav a:active {
     background-color: #7A991A;
+	position: fixed;
+	width: 60px;
+	height: 100%;
+	top:0;
+	left:0;
 }
