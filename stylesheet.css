@@ -42,4 +42,5 @@ nav ul {
 nav li {
 	display: inline;
 	background-color: red;
+	border: black;
 }
