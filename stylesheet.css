@@ -34,7 +34,7 @@ h4 {
 }
 
 nav {
-	background-color: #3515b0;
+	background-color: #6666FF;
 	position: fixed;
 	width: 60px;
 	height: 100%;
@@ -56,3 +56,6 @@ nav li {
 	padding-left: 2px;
 	padding-bottom: 10px;
 }
+
+nav a:hover, nav a:active {
+    background-color: blue;
