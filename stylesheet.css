@@ -63,3 +63,11 @@ nav a:hover, nav a:active {
 	top:0;
 	left:0;
 }
+
+#container {
+	margin-left: 190px;
+}
+
+.brown {
+	color: brown;
+	}
