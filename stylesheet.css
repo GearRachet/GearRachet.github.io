@@ -58,7 +58,6 @@ nav li {
 }
 
 nav a:hover, nav a:active {
-<<<<<<< HEAD
     background-color: #7A991A;
 	position: fixed;
 	width: 60px;
@@ -74,6 +73,3 @@ nav a:hover, nav a:active {
 .brown {
 	color: brown;
 	}
-=======
-    background-color: blue;
->>>>>>> origin/master
